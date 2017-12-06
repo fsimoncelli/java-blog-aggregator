@@ -47,3 +47,5 @@ Because I recorded this project creation from scratch, you can learn from it:
 		<a href="http://www.java-skoleni.cz" target="_blank" title="Java školení">Java školení</a> (in Czech)
 	</li>
 </ul>
+
+Fork of fsimoncelli
